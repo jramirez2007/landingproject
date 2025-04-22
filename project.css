@@ -1,0 +1,52 @@
+i {
+    font-size: 300px;
+    letter-spacing: 500px;
+}
+body {
+    background-color: #fff8f0;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    color: #d35400;
+}
+
+.menu {
+    margin-top: 50px;
+}
+
+.menu h2 {
+    font-size: 32px;
+    color: #e67e22;
+}
+
+.menu ul {
+    padding: 0;
+}
+
+.menu p{
+    margin: 10px 0;
+    font-size: 20px;
+}
+.fa-burger {
+    position: fixed;
+    bottom: 20px;
+    right: -34%;
+    font-size: 80px;
+    color: #ff9900;
+    z-index: 1000;
+}
+.fa-bars {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    font-size: 50px; 
+}
+img{
+ width: 1300px;
+ height: 1000px;
+}
